@@ -1,4 +1,7 @@
-# 个人网站建立test
-
->学了一段时间的课题相关算法，浅浅记录一下~
->想到啥写啥
+<!DOCTYPE html>
+<html>
+	<head> </head>
+	<body>
+	<p>hello, my first page!</p>
+	</body>
+</html
